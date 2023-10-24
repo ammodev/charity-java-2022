@@ -1,0 +1,15 @@
+name: Event
+version: ${project.version}
+api-version: 1.19
+authors: [CastCrafter, Ammo, B3nZockt, Keviro, Kendorflame]
+description: A plugin for all castcrafter events
+
+main: dev.slne.event.Main
+
+commands:
+    goal:
+    game:
+    wand:
+    help:
+    donation:
+    credits:
